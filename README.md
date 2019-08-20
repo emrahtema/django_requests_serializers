@@ -1,2 +1,2 @@
-# request_django
+# django_requests_serializers
 Son ödev
